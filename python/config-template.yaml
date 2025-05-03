@@ -1,0 +1,7 @@
+output_dir: "./data"
+events:
+  - "cycles"
+  - "instructions"
+  - "branch-misses"
+frequency: 999
+duration: 10
